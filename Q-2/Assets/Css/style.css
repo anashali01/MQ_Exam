@@ -147,6 +147,7 @@
   .blog-section .blog-1 ,.blog-section .blog-2 ,.blog-section .blog-3{
     background-color: var(--white-color);
     border-radius: 20px;
+    margin-bottom: 20px;
   }
   .blog-section .blog-1 .info ,.blog-section .blog-2 .info ,.blog-section .blog-3 .info{
     padding: 15px;
